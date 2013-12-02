@@ -4,8 +4,8 @@
 // @author Ruslan Login
 // @license MIT
 // @version 1.0
-// @include http://habrahabr.ru/*
-// @match http://habrahabr.ru/*
+// @include http://*
+// @match http://*
 // ==/UserScript==
 
 
